@@ -1,4 +1,7 @@
-> # **Luke Combs "Fathers & Sons" "Front Door Famous"**
+<center>
+
+# **Dainos zodziai:**
+> # **Luke Combs "Fathers & Sons" "Front Door Famous"**</center>
 >
 >```
 > I see his face sometimes out there in the crowd
@@ -50,3 +53,8 @@
 > 'Cause it ain't got nothing on bein'
 > Front-door famous
 >```
+<center>
+
+# **Vaizdo irasas**: 
+[![alt text](image-8.png)](https://www.youtube.com/watch?v=vpi5Bdq8-U0)
+#  [**ATGAL**](../contents.md)</center>

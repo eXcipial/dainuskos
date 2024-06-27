@@ -1,4 +1,7 @@
-> # **Lola Young "This Wasn't Meant For You Anyway" "Good Books"**
+<center>
+
+# **Dainos zodziai:**
+# **Lola Young "This Wasn't Meant For You Anyway" "Good Books"**</center>
 >
 >```
 > I know that you push me away
@@ -52,3 +55,8 @@
 > But I shovel that shit to the left instead of sleeping at night
 > I work hard to stay in your good books, so next time please keep that in mind
 >```
+<center>
+
+# **Vaizdo irasas**: 
+[![alt text](image-7.png)](https://www.youtube.com/watch?v=GfCHzkHvNvU)
+#  [**ATGAL**](../contents.md)</center>

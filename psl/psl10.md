@@ -1,4 +1,7 @@
-> # **Don Toliver "HARDSTONE PSYCHO" "KRYPTONITE"**
+<center>
+
+# **Dainos zodziai:**
+> # **Don Toliver "HARDSTONE PSYCHO" "KRYPTONITE"**</center>
 >
 >```
 > Purple clouds fillin' up the air tonight
@@ -61,3 +64,8 @@
 > Now, do that sound like me?
 > Do that sound like me?
 >```
+<center>
+
+# **Vaizdo irasas**: 
+[![alt text](image-9.png)](https://www.youtube.com/watch?v=jcYzPd9mej0)
+#  [**ATGAL**](../contents.md)</center>
