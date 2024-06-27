@@ -1,4 +1,6 @@
-> # **Lawrence "Family Business" "Promotion"**
+<center>
+
+> # **Lawrence "Family Business" "Promotion"**</center>
 >
 >```
 > Paid my dues
@@ -51,3 +53,8 @@
 > I gotta gotta gotta gotta gotta g-get
 > Gotta gotta gotta gotta gotta gotta get a promotion
 >```
+<center>
+
+# Vaizdo irasas: 
+[![alt text](image-6.png))](https://www.youtube.com/watch?v=uNW2REG3ZvE)
+#  [**ATGAL**](../contents.md)</center>

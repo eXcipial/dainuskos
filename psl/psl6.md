@@ -1,4 +1,6 @@
-> # **Peso Pluma "ÉXODO" "ME ACTIVO"**
+<center>
+
+> # **Peso Pluma "ÉXODO" "ME ACTIVO"**</center>
 >
 >```
 > Se siguen contando los billetes
@@ -33,3 +35,8 @@
 >
 > Ah, y la motita nunca le falta
 >```
+<center>
+
+# Vaizdo irasas: 
+[![alt text](image-5.png)](https://www.youtube.com/watch?v=xxjmbR3O2KI)
+#  [**ATGAL**](../contents.md)</center>

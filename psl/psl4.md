@@ -1,6 +1,6 @@
 <center>
 
-> # **The Story So Far "I Want To Disappear" "Letterman**  </center>
+> # **The Story So Far "I Want To Disappear" "Letterman**</center>
 >
 >```
 > Look behind me then you'll understand
@@ -49,8 +49,4 @@
 
 # Vaizdo irasas: 
 [!![alt text](image-3.png)](https://www.youtube.com/watch?v=G4lG9wIVlZQ)
-
-
-#  [**ATGAL**](../contents.md)
-
- </center>
+#  [**ATGAL**](../contents.md)</center>

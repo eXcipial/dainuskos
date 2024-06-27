@@ -1,8 +1,6 @@
 <center>
 
-# **Dainos zodziai:**
-</center>
-
+# **Dainos zodziai:**</center>
 > # **Kygo "KYGO"" The Feeling"**
 >
 >```
@@ -58,10 +56,6 @@
 
 # Vaizdo irasas: 
 [![alt text](image.png)](https://www.youtube.com/watch?v=sZkaKJxo6uE)
-
-
-#  [**ATGAL**](../contents.md)
-
- </center>
+#  [**ATGAL**](../contents.md)</center>
 
  
