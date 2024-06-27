@@ -20,4 +20,4 @@
 
 [*9. Luke Combs "Fathers & Sons" "Front Door Famous"*](psl/psl9.md)
 
-10. Don Toliver "HARDSTONE PSYCHO"
+[*10. Don Toliver "HARDSTONE PSYCHO" "KRYPTONITE"*](psl/psl10.md)
