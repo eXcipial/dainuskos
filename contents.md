@@ -14,7 +14,8 @@
 
 [*6. Peso Pluma "ÉXODO" "ME ACTIVO"*](psl/psl6.md)
 
-7. Lawrence "Family Business"
+[*7. Lawrence "Family Business" "Promotion"*](psl/psl7.md)
+
 8. Lola Young "This Wasn't Meant For You Anyway"
 9. Luke Combs "Fathers & Sons"
 10. Don Toliver "HARDSTONE PSYCHO"
