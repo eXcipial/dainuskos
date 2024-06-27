@@ -1,5 +1,6 @@
 <center>
 
+# **Dainos zodziai:**
 ># **Kehlani "CRASH" "After Hours"**</center>
 >
 >```
@@ -80,7 +81,7 @@
 >```
 <center>
 
-# Vaizdo irasas: 
+# **Vaizdo irasas**: 
 [![alt text](image-1.png))](https://www.youtube.com/watch?v=6qatTTscK4c)
 #  [**ATGAL**](../contents.md)
 </center>

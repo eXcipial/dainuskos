@@ -1,5 +1,6 @@
 <center>
 
+# **Dainos zodziai:**
 > # **Sheppard "Zora" "Good Time"**</center>
 >
 >```
@@ -76,6 +77,6 @@
 >```
 <center>
 
-# Vaizdo irasas: 
+# **Vaizdo irasas**: 
 [![alt text](image-4.png)](https://www.youtube.com/watch?v=WqlnzkiXeDw)
 #  [**ATGAL**](../contents.md) </center>

@@ -1,5 +1,6 @@
 <center>
 
+# **Dainos zodziai:**
 > # **The Story So Far "I Want To Disappear" "Letterman**</center>
 >
 >```
@@ -47,6 +48,6 @@
 >```
 <center>
 
-# Vaizdo irasas: 
+# **Vaizdo irasas**: 
 [!![alt text](image-3.png)](https://www.youtube.com/watch?v=G4lG9wIVlZQ)
 #  [**ATGAL**](../contents.md)</center>

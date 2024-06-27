@@ -1,5 +1,6 @@
 <center>
 
+# **Dainos zodziai:**
 > # **Peso Pluma "ÉXODO" "ME ACTIVO"**</center>
 >
 >```
@@ -37,6 +38,6 @@
 >```
 <center>
 
-# Vaizdo irasas: 
+# **Vaizdo irasas**: 
 [![alt text](image-5.png)](https://www.youtube.com/watch?v=xxjmbR3O2KI)
 #  [**ATGAL**](../contents.md)</center>

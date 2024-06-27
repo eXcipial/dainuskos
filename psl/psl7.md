@@ -1,5 +1,6 @@
 <center>
 
+# **Dainos zodziai:**
 > # **Lawrence "Family Business" "Promotion"**</center>
 >
 >```
@@ -55,6 +56,6 @@
 >```
 <center>
 
-# Vaizdo irasas: 
+# **Vaizdo irasas**: 
 [![alt text](image-6.png))](https://www.youtube.com/watch?v=uNW2REG3ZvE)
 #  [**ATGAL**](../contents.md)</center>

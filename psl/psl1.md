@@ -1,7 +1,7 @@
 <center>
 
-# **Dainos zodziai:**</center>
-> # **Kygo "KYGO"" The Feeling"**
+# **Dainos zodziai:**
+> # **Kygo "KYGO"" The Feeling"**</center>
 >
 >```
 > I see the waves, I see an ocean there beneath your eyes
@@ -54,7 +54,7 @@
 >```
 <center>
 
-# Vaizdo irasas: 
+# **Vaizdo irasas**: 
 [![alt text](image.png)](https://www.youtube.com/watch?v=sZkaKJxo6uE)
 #  [**ATGAL**](../contents.md)</center>
 

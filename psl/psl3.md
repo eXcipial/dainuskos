@@ -1,5 +1,6 @@
 <center>
 
+# **Dainos zodziai:**
 > # **Gracie Abrams "The Secret Of Us" "Felt Good About You"**</center>
 >
 >```
@@ -76,6 +77,6 @@
 >```
 <center>
 
-# Vaizdo irasas: 
+# **Vaizdo irasas**: 
 [![alt text](image-2.png)](https://www.youtube.com/watch?v=kWq14TtprVw)
 #  [**ATGAL**](../contents.md)</center>
