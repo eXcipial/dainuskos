@@ -16,6 +16,7 @@
 
 [*7. Lawrence "Family Business" "Promotion"*](psl/psl7.md)
 
-8. Lola Young "This Wasn't Meant For You Anyway"
+[*8. Lola Young "This Wasn't Meant For You Anyway" "Good Books"*](psl/psl8.md)
+
 9. Luke Combs "Fathers & Sons"
 10. Don Toliver "HARDSTONE PSYCHO"

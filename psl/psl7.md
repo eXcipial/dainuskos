@@ -1,4 +1,4 @@
-> # Lawrence "Family Business" "Promotion"
+> # **Lawrence "Family Business" "Promotion"**
 >
 >```
 > Paid my dues
