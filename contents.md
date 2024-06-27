@@ -18,5 +18,6 @@
 
 [*8. Lola Young "This Wasn't Meant For You Anyway" "Good Books"*](psl/psl8.md)
 
-9. Luke Combs "Fathers & Sons"
+[*9. Luke Combs "Fathers & Sons" "Front Door Famous"*](psl/psl9.md)
+
 10. Don Toliver "HARDSTONE PSYCHO"
