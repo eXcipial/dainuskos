@@ -1,4 +1,6 @@
-> # **Gracie Abrams "The Secret Of Us" "Felt Good About You"**
+<center>
+
+> # **Gracie Abrams "The Secret Of Us" "Felt Good About You"**          </center>
 >
 >```
 > Felt good about you till I didn't
@@ -72,4 +74,12 @@
 > Felt good about you till I didn't
 > Felt good about you
 >```
+<center>
 
+# Vaizdo irasas: 
+[![alt text](image-2.png)](https://www.youtube.com/watch?v=kWq14TtprVw)
+
+
+#  [**ATGAL**](../contents.md)
+
+ </center>

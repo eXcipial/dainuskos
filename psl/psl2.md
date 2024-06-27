@@ -1,4 +1,6 @@
-># **Kehlani "CRASH" "After Hours"**
+<center>
+
+># **Kehlani "CRASH" "After Hours"**     </center>
 >
 >```
 > Kehlani Lyrics
@@ -76,3 +78,12 @@
 > Oh, woah-woah (You can stay for a little while)
 > Oh, woah-woah
 >```
+<center>
+
+# Vaizdo irasas: 
+[![alt text](image-1.png))](https://www.youtube.com/watch?v=6qatTTscK4c)
+
+
+#  [**ATGAL**](../contents.md)
+
+ </center>

@@ -1,4 +1,6 @@
-> # **Sheppard "Zora" "Good Time"**
+<center>
+
+> # **Sheppard "Zora" "Good Time"**         </center>
 >
 >```
 > I wanna spend my money where the days are sunny and bright
@@ -72,3 +74,12 @@
 > Have a good, good time
 > And my best time is always with you
 >```
+<center>
+
+# Vaizdo irasas: 
+[![alt text](image-4.png)](https://www.youtube.com/watch?v=WqlnzkiXeDw)
+
+
+#  [**ATGAL**](../contents.md)
+
+ </center>
