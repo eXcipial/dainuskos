@@ -12,7 +12,8 @@
 
 [*5. Sheppard "Zora" "Good Time"*](psl/psl5.md)
 
-6. Peso Pluma "ÉXODO"
+[*6. Peso Pluma "ÉXODO" "ME ACTIVO"*](psl/psl6.md)
+
 7. Lawrence "Family Business"
 8. Lola Young "This Wasn't Meant For You Anyway"
 9. Luke Combs "Fathers & Sons"
