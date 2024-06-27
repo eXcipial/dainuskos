@@ -1,7 +1,7 @@
-
+<center>
 
 # **Dainos zodziai:**
-
+</center>
 
 > # **Kygo "KYGO"" The Feeling"**
 >
@@ -54,8 +54,14 @@
 > You hold me in your palms like I was made for you
 > So tell me can you feel it
 >```
-# Vaizdo irasas: [![alt text](image.png)](https://www.youtube.com/watch?v=sZkaKJxo6uE)
+<center>
+
+# Vaizdo irasas: 
+[![alt text](image.png)](https://www.youtube.com/watch?v=sZkaKJxo6uE)
 
 
-# <center>  [**ATGAL**](../contents.md) </center>
+#  [**ATGAL**](../contents.md)
 
+ </center>
+
+ 
