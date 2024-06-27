@@ -1,6 +1,8 @@
 
+<center>
 
 # Turinys
+</center>
 
 [*1. Kygo "KYGO" "The Feeling"*](psl/psl1.md)
 
